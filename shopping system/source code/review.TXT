@@ -1,0 +1,10 @@
+NAME: ANEELA	Rating= 4	remarks: DECENT
+NAME: mustafa	Rating= 3	remarks: bad
+NAME: HASSAN	Rating= 3	remarks: BAD
+NAME: ZAIN	Rating= 4	remarks: DECENT
+NAME: KHIAZAR	Rating= 3	remarks: GOOD
+NAME: TALHA	Rating= 0	remarks: BAD
+NAME: FATIM	Rating= 3	remarks: GOOD
+NAME: HAMMAD	Rating= 3	remarks: GOOD
+NAME: JOHN	Rating= 3	remarks: DECENT
+NAME: KING	Rating= 4	remarks: GOOD
